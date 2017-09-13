@@ -23,7 +23,7 @@ for(var x = 0; x < columns; x++)
 function draw() {
 	//Black BG for the canvas
 	//translucent BG to show trail
-	ctx.fillStyle = "rgba(0, 0, 0, 0.03)";
+	ctx.fillStyle = "rgba(0, 0, 0, 0.04)";
 	ctx.shadowBlur = 0;
 	ctx.fillRect(0, 0, c.width, c.height);
 
