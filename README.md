@@ -1,6 +1,8 @@
 # screen-matrix
 A lightweight raining code matrix that can be used as screensaver
 
+<img src="demo.jpg" width="600">
+
 ## Credit
 Original code from **Ebram Marzouk** [here](https://codepen.io/P3R0/pen/MwgoKv). Modified to be more "relaxing" to the eye i.e. optimized for screensaver.
 
