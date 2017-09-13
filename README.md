@@ -7,7 +7,7 @@ A lightweight raining code matrix that can be used as screensaver
 Original code from **Ebram Marzouk** [here](https://codepen.io/P3R0/pen/MwgoKv). Modified to be more "relaxing" to the eye i.e. optimized for screensaver.
 
 ## Installation
-How to install screensaver as web view. First, you need to secure the url. You can fork and host this repository to your own web server OR copy gh-pages url:
+How to install screensaver as web view? First, you need to secure the url. You can fork and host this repository to your own web server OR copy gh-pages url:
 
 https://lodev09.github.io/screen-matrix/
 
