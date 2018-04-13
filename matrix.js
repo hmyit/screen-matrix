@@ -2,12 +2,13 @@ var c = document.getElementById("c");
 var ctx = c.getContext("2d");
 
 //making the canvas full screen
-c.height = window.innerHeight;
-c.width = window.innerWidth;
+c.height = window.outerHeight;
+c.width = window.outerWidth;
 
-//word characters - taken from the unicode charset
-var words = "abcdefghijklmnopqrstuvwxyz0123456789!#$%^&*_-/\\{}[]+?<>|;:";
-//converting the string into an array of single characters
+// word characters - taken from the unicode charset
+var words = "abcdefghijklmnopqrstuvwxyz0123456789!#$%&_-/\\{}[]?|";
+
+// converting the string into an array of single characters
 words = words.split("");
 
 var font_size = 14;
