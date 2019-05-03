@@ -6,7 +6,7 @@ c.height = window.outerHeight;
 c.width = window.outerWidth;
 
 // word characters - taken from the unicode charset
-var words = "abcdefghijklmnopqrstuvwxyz0123456789!#$%&_-/\\{}[]?|";
+var words = "タイム・イズ・ゴールド ";
 
 // converting the string into an array of single characters
 words = words.split("");
